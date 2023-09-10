@@ -1,0 +1,3 @@
+num_items=11208
+avg_seq_len=6.995551740284064
+avg_basket_size=6.413460358541292
